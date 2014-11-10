@@ -1,17 +1,9 @@
 # FlappyRect
 ---
 
-A game refers to FlappyBird, developed in SpriteKit framework.
+Dans le cadre du recrutement du dévellopeur IOS chez Bubblz, On vous fait jouer.
+Fait un score supérieur à 10 et découvre le Mot de passe que tu pourra nous envoyer avec ton CV et ta lettre de motivation.
 
-## ScreenShots:
-------------
 
-![screenShot1][1]
-
-You can find more details in file "MainScene.m"
-
-## License
-
+#### Les sources utilisées :
 This code is distributed under the terms and conditions of the [MIT license](LICENSE).
-
-[1]: http://hte4mj-resource.stor.sinaapp.com/FlappyRect/flappyRectGif1.gif
